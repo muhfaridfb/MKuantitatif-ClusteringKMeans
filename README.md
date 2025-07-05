@@ -45,5 +45,5 @@ Projek ini berhasil mengelompokkan mahasiswa ke dalam **5 klaster berbeda** dan 
 ## 📌 Credit
 Projek dikembangkan oleh:  
 **Muh Farid FB (G6401221060)**  
-Departemen Matematika dan Ilmu Pengetahuan Alam  
+Departemen Ilmu Komputer  
 Institut Pertanian Bogor — 2024
